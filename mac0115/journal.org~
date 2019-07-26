@@ -1,0 +1,39 @@
+-# -- mode: org --
+# -- coding: utf-8 --
+#+STARTUP: overview indent inlineimages logdrawer
+#+TITLE:  Andrei's Journal - MAC0115
+#+AUTHOR:      Andrei
+#+LANGUAGE:    en
+#+TAGS: noexport(n) Stats(S)
+#+TAGS: Teaching(T) R(R) OrgMode(O) Python(P) Julia(J)
+#+TAGS: Book(b) Paper(p) Presentation(p) Scheduler(S) Alfredo(G) Pedro(P) SCHOLL(S) Andrei(a) WeekReview(w) CodeReviewed(c) Meeting(M)
+#+EXPORT_SELECT_TAGS: Blog
+#+OPTIONS:   H:3 num:t toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+COLUMNS: %25ITEM %TODO %3PRIORITY %TAGS
+#+SEQ_TODO: TODO(t!) STARTED(s!) WAITING(w@) APPT(a!) | DONE(d!) CANCELLED(c!) DEFERRED(f!) | REPORT(r!)
+
+
+* July
+** [2019-07-23 tuesday]
+
+*** TODO Clone MAC0115 and MAC0115-apoio repositories.
+*** TODO Read all documents.
+
+** [2019-07-25 thursday] 
+
+*** TODO Install Julia environment.
+:LOGBOOK:
+- State "TODO"       from              [2019-07-26 sex 11:01]
+:END:
+*** TODO Example Vector x Matrix on [[https://phrb.github.io/2019-02-16-intro_parallel_julia/][Pedro's Blog]]
+:LOGBOOK:
+- State "TODO"       from              [2019-07-26 sex 11:01]
+:END:
+
+** [2019-07-26 friday]
+*** TODO Install IJulia for Jupyter Notebook
+*** TODO Read the introdcution and run the first example from [[https://benlauwens.github.io/ThinkJulia.jl/latest/book.html][Think Julia]] :Book:
+*** TODO MAC0115 meeting with Pedro
